@@ -1,4 +1,4 @@
-# SciCalc: Simple Scientific Calculator
+# PyCalc: Simple Scientific Calculator
 
 ## Overview
 
@@ -29,7 +29,6 @@ python pycalc.py
 
 To calculate the sine of an angle, enter:
 
-7
 Enter angle in radians: 1.57
 
 Output:
