@@ -38,9 +38,6 @@ Result: 1.0
 
 ## Contributing
 
-Contributions are welcome! If you'd like to improve SciCalc, please open an issue to discuss the proposed changes or fork the repository and create a pull request.
+Contributions are welcome! If you'd like to improve PyCalc, please open an issue to discuss the proposed changes or fork the repository and create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
